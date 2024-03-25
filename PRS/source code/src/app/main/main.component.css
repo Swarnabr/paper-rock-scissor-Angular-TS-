@@ -1,0 +1,78 @@
+.main_btn {
+    margin-top: 50px;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    font-size: 30px;
+}
+
+.human {
+    margin: 10px;
+    height: 50px;
+    width: 100px;
+    font-size: 18px;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-style: oblique;
+    border-radius: 30px;
+    border-color: black;
+    border-width: 4px;
+    border: dotted;
+    background-color:pink;
+}
+
+.human:hover {
+    background-image: linear-gradient(purple, burlywood, purple);
+    color: black;
+    height: 70px;
+    width: 100px;
+}
+
+.machine {
+    margin: 10px;
+    height: 50px;
+    width: 100px;
+    font-size: 18px;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-style: oblique;
+    border-radius: 30px;
+    border-color: black;
+    border-width: 4px;
+    border: dotted;
+    background-color:pink;
+}
+
+.machine:hover {
+    background-image: linear-gradient(purple, burlywood,purple);
+    color: black;
+    height: 70px;
+    width: 100px;
+}
+
+.hum1 {
+    border-radius: 100px;
+    color: burlywood;
+    background-color:yellow;
+    border: dotted;
+    font-style: italic;
+}
+
+.main_box {
+    border: solid 5px;
+    margin-top: 45px;
+    border-radius: 5px;
+    border-color: maroon;
+    height: 500px;
+    background-color: bisque;
+}
+
+.game_vid {
+    border: dashed;
+    border: solid 10px;
+    border-radius: 20%;
+    border-color: burlywood;
+    height: 200px;
+    width: 200px;
+    background-color: white;
+}
